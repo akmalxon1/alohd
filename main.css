@@ -1,0 +1,335 @@
+.but-1{
+    width: 94px;
+height: 46px;
+background: #FF0043;
+border: 1px black;
+border-radius: 20px;
+margin: 37px 0 0 0;
+color: white;
+transition: 2s;
+}
+
+.but-1:hover{
+    background-color: #00194A;
+    color: white;
+}
+
+.text{
+    display: flex;
+    margin: 50px 0 0 120px;
+    gap: 1000px;
+}
+
+
+.text-1{
+    font-size: 22px;
+}
+
+.text-img{
+    margin: 150px 0 0 110px;
+}
+
+.tx{
+    font-family: Roboto;
+    font-size: 60px;
+    font-weight: 500;
+    line-height: 85px;
+    text-align: left;
+}
+
+
+
+
+.one-btn{
+    width: 275px;
+height: 60px;
+    color: white;
+    background: #FF0043;
+border: 1px black;
+border-radius: 35px;
+margin: 35px 0 0 0;
+transition: 2s;
+}
+
+.one-btn:hover{
+    background-color: #00194A;
+    color: white;
+}
+
+.p{
+    font-family: Roboto;
+font-size: 18px;
+font-weight: 300;
+line-height: 28px;
+margin: -20px 0 0 0;
+
+}
+
+
+.img-1{
+    margin: -550px 0 0 800px;
+}
+
+.box-1{
+    margin: 250px 0 0 100px;
+   
+}
+
+.card{
+    border: 2px red;
+    width: 360px;
+height: 272px;
+top: 880px;
+left: 150px;
+box-shadow: 0px 0px 25px 0px #00000008;
+
+}
+
+
+.img-android{
+margin: 20px 0 0 35px;
+}
+
+.container-1{
+    margin: 30px 0 0 35px;
+}
+
+
+
+
+.p1{
+    font-family: Roboto;
+font-size: 16px;
+font-weight: 300;
+line-height: 26px;
+text-align: left;
+color: #00194A;
+
+}
+
+.p2{
+    font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 18.75px;
+text-align: left;
+color: #00194A;
+margin: 40px 0 0 0;
+}
+
+.img-dow{
+    margin: -10px 0 0 100px;
+}
+
+
+.man{
+    margin: 250px 0 0 100px;
+}
+
+.ios{
+    margin: 350px 0 0 50px;
+}
+
+.ios-18{
+    font-family: Roboto;
+font-size: 35px;
+font-weight: 500;
+line-height: 50px;
+text-align: left;
+color: #00194A;
+
+}
+
+.p-4{
+    font-family: Roboto;
+font-size: 18px;
+font-weight: 300;
+line-height: 28px;
+text-align: left;
+color: #00194A;
+
+}
+
+.bx-tx{
+    margin: 200px 0 0 200px;
+}
+
+.bx-tx1{
+    font-family: Roboto;
+font-size: 35px;
+font-weight: 500;
+line-height: 50px;
+text-align: left;
+color: #00194A;
+
+}
+
+.h-4{
+    font-family: Roboto;
+font-size: 18px;
+font-weight: 300;
+line-height: 28px;
+text-align: left;
+color: #00194A;
+
+}
+
+
+.h-b{
+    font-family: Roboto;
+font-size: 18px;
+font-weight: 500;
+line-height: 21.09px;
+text-align: left;
+color: #00194A;
+}
+
+
+.cardd{
+    border: 2px red;
+    width: 360px;
+height: 272px;
+top: 880px;
+left: 150px;
+box-shadow: 0px 0px 25px 0px #00000008;
+
+}
+
+.p11{
+    font-family: Roboto;
+font-size: 14px;
+font-weight: 300;
+line-height: 23px;
+text-align: left;
+color: #00194A;
+}
+
+
+.img-ic{
+    margin: 20px 0 0 35px;
+    }
+    
+    .container-2{
+        margin: 30px 0 0 35px;
+    }
+    
+    
+    
+    
+    .p11{
+        font-family: Roboto;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 26px;
+    text-align: left;
+    color: #00194A;
+    
+    }
+    
+    .box-cd{
+        margin: -450px 0 0 700px;
+    }
+
+
+    .box-cd1{
+        margin: -100px 0 0 1100px;
+    }
+
+    .box-cd2{
+        margin: 0 0 0 700px;
+    }
+
+.h111{
+    color: white;
+    text-align: center;
+    margin: 50px 0 0 0;
+    padding-top: 50px;
+}
+
+    .zz{
+        font-family: Roboto;
+font-size: 18px;
+font-weight: 300;
+line-height: 28px;
+text-align: center;
+color: white;
+    }
+
+
+    .box-tex{
+        width: 1139px;
+height: 346px;
+top: 3394px;
+left: 150px;
+gap: 0px;
+opacity: 0px;
+background: #00194A;
+border-radius: 10px;
+margin: 200px 0 0 150px;
+    }
+
+
+    .one-btnn{
+        width: 275px;
+    height: 60px;
+        color: white;
+        background: #FF0043;
+    border: 1px black;
+    border-radius: 35px;
+    margin: 100px 0 0 420px;
+    transition: 2s;
+    }
+
+    .one-btnn:hover{
+        background-color: #00194A;
+        color: white;
+    }
+
+    .main{
+        display: flex;
+        margin: 100px 0 0 50px;
+    }
+
+    .content2{
+        margin: 0 150px 0 100px;
+        position: relative;
+    }
+    
+    .gr{
+        margin: 250px 0 0 200px;
+        position: absolute;
+    }
+
+
+    .box-two{
+        margin: 200px 0 0 0;
+    }
+    
+    .simple{
+        font-family: Roboto;
+    font-size: 35px;
+    font-weight: 800;
+    color: #00194A;
+    margin-bottom: 50px;
+    }
+    
+    .lor2{
+        font-family: Roboto;
+    font-size: 20px;
+    font-weight: 300;
+    opacity: 70%;
+    }
+
+
+
+    .footer{
+        margin: 100px 0 0 80px;
+        display: flex;
+        gap: 700px;
+        color: #00194A;
+    }
+    
+    .ft1{
+    font-size: 18px;
+    font-weight: 500;
+    }
